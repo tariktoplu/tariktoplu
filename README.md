@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @tariktoplu
-- 👀 I’m interested in C/C++
-- 🌱 I’m currently learning C/C++
-- 📫 My e-mail: tarikttoplu@gmail.com
-
+Hey!
+I'm Tarık Toplu. I am a first grade computer engineering student at Sakarya University.
+I am currently learning C++ and C#. 
