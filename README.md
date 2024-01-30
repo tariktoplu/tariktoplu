@@ -1,5 +1,2 @@
-Hey!
-
-I'm Tarık Toplu. I am a first grade computer engineering student at Sakarya University
-
-I am learning C++ and C#. 
+<h1 align="center">Hi, I am Tarık Toplu</h1>
+<h3 align="center">Computer Engineering Student at Sakarya University</h3>
