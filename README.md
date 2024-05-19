@@ -1,4 +1,30 @@
-<h1 align="center">Hi, I am Tarık Toplu</h1>
-<h3 align="center">Computer Engineering Student at Sakarya University</h3>
+# Hi 👋, I'm Tarık Toplu
 
-- I’m currently learning **C++, Flutter, Python, C#**
+**Computer Engineering PhD Student at Sakarya University in Turkey and software developer**
+
+### About Me
+- 🌱 I’m currently learning React, C#, JavaScript, Angular
+- 💬 Ask me about Flutter
+
+### 📫 Contact Me:
+- Email: tarikttoplu@gmail.com
+- Linkedin : linkedin.com/in/tarıktoplu/
+- instagram : instagram.com/tarikttoplu
+
+### 🛠️ Languages and Tools:
+- C++
+- C#
+- Python
+- PHP
+- Html
+- Css
+
+### 📊 This week I spent my time on:
+- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tariktoplu)](https://github.com/anuraghazra/github-readme-stats)
+
+### Popular Repositories
+- [tariktoplu](https://github.com/tariktoplu/PortfolioSite)
+- [tariktoplu](https://github.com/tariktoplu/winequality-red-ML)
+- [tariktoplu](https://github.com/tariktoplu/DetectionOfFakeAndRealNews)
+- [tariktoplu](https://github.com/tariktoplu/basic_notepad)
+- [tariktoplu](https://github.com/tariktoplu/sayfaOdevi)
