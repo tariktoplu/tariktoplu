@@ -4,7 +4,6 @@
 
 ### About Me
 - 🌱 I’m currently learning React, C#, JavaScript, Angular
-- 💬 Ask me about Flutter
 
 ### 📫 Contact Me:
 - Email: tarikttoplu@gmail.com
@@ -20,7 +19,7 @@
 - Css
 
 ### 📊 This week I spent my time on:
-- [![Wakatime stats](https://github-readme-stats-self-two-69.vercel.app/)
+<img align="left" altz"codeSTACKr's Github Stats" src="https://github-readme-stats-self-two-69.vercel.app/">
 
 ### Popular Repositories
 - [tariktoplu](https://github.com/tariktoplu/PortfolioSite)
