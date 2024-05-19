@@ -20,7 +20,7 @@
 - Css
 
 ### 📊 This week I spent my time on:
-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=malibayram)](https://github.com/anuraghazra/github-readme-stats)
+- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tariktoplu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Popular Repositories
 - [tariktoplu](https://github.com/tariktoplu/PortfolioSite)
