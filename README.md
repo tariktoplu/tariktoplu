@@ -19,7 +19,7 @@
 - Css
 
 ### 📊 This week I spent my time on:
-<img align="left"  src="https://github-readme-stats-self-two-69.vercel.app/">
+<img align="left"  src="https://github-readme-stats-self-two-69.vercel.app/api?username=tariktoplu&show_icons=true&hide_border=true" />
 
 ### Popular Repositories
 - [tariktoplu](https://github.com/tariktoplu/PortfolioSite)
