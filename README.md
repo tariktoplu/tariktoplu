@@ -22,8 +22,8 @@
 <img align="left"  src="https://github-readme-stats-self-two-69.vercel.app/api?username=tariktoplu&show_icons=true&hide_border=true" />
 
 ### Popular Repositories
-- [tariktoplu](https://github.com/tariktoplu/PortfolioSite)
-- [tariktoplu](https://github.com/tariktoplu/winequality-red-ML)
-- [tariktoplu](https://github.com/tariktoplu/DetectionOfFakeAndRealNews)
-- [tariktoplu](https://github.com/tariktoplu/basic_notepad)
-- [tariktoplu](https://github.com/tariktoplu/sayfaOdevi)
+- [PortfolioSite](https://github.com/tariktoplu/PortfolioSite)
+- [winequality-red-ML](https://github.com/tariktoplu/winequality-red-ML)
+- [DetectionOfFakeAndRealNews](https://github.com/tariktoplu/DetectionOfFakeAndRealNews)
+- [basic_notepad](https://github.com/tariktoplu/basic_notepad)
+- [sayfaOdevi](https://github.com/tariktoplu/sayfaOdevi)
