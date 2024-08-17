@@ -11,6 +11,7 @@
 - instagram : instagram.com/tarikttoplu
 
 ### 🛠️ Languages and Tools:
+- React.js
 - C++
 - C#
 - Python
