@@ -3,7 +3,7 @@
 **Computer Engineering PhD Student at Sakarya University in Turkey and software developer**
 
 ### About Me
-- 🌱 I’m currently learning React, C#, JavaScript, Angular
+- 🌱 I’m currently learning React, C#, JavaScript, GSAP, Three.js
 
 ### 📫 Contact Me:
 - Email: tarikttoplu@gmail.com
