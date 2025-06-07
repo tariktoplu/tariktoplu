@@ -3,7 +3,7 @@
 **Computer Engineering PhD Student at Sakarya University in Turkey and software developer**
 
 ### About Me
-- 🌱 I’m currently learning React, C#, JavaScript, Java
+- 🌱 I’m currently learning React, Kotlin, JavaScript
 
 ### 📫 Contact Me:
 - Email: tarikttoplu@gmail.com
@@ -15,9 +15,6 @@
 - C++
 - C#
 - Python
-- PHP
-- Html
-- Css
 
 ### 📊 This week I spent my time on:
 <img align="left"  src="https://github-readme-stats-self-two-69.vercel.app/api?username=tariktoplu&show_icons=true&hide_border=true" />
