@@ -7,8 +7,8 @@
 
 ### 📫 Contact Me:
 - Email: tarikttoplu@gmail.com
-- Linkedin : linkedin.com/in/tarıktoplu/
-- instagram : instagram.com/tarikttoplu
+- Linkedin : [linkedin.com/in/tarıktoplu/](https://www.linkedin.com/in/tariktoplu/)
+- instagram : [instagram.com/tarikttoplu](https://www.instagram.com/tarikttoplu/)
 
 ### 🛠️ Languages and Tools:
 - C++
