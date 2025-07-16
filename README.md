@@ -11,14 +11,11 @@
 - instagram : instagram.com/tarikttoplu
 
 ### 🛠️ Languages and Tools:
-- React.js
 - C++
 - C#
 - Python
-
-### 📊 This week I spent my time on:
-<img align="left"  src="https://github-readme-stats-self-two-69.vercel.app/api?username=tariktoplu&show_icons=true&hide_border=true" />
-
+- React.js
+  
 ### Popular Repositories
 - [PortfolioSite](https://github.com/tariktoplu/PortfolioSite)
 - [winequality-red-ML](https://github.com/tariktoplu/winequality-red-ML)
