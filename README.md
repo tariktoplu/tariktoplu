@@ -17,6 +17,7 @@
 - React.js
   
 ### Popular Repositories
+- [MedikalVision-Aİ](https://github.com/tariktoplu/MedicalVision-AI)
 - [PortfolioSite](https://github.com/tariktoplu/PortfolioSite)
 - [winequality-red-ML](https://github.com/tariktoplu/winequality-red-ML)
 - [DetectionOfFakeAndRealNews](https://github.com/tariktoplu/DetectionOfFakeAndRealNews)
